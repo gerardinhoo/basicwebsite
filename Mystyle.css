@@ -1,0 +1,54 @@
+
+p{
+	background-color: white;
+	color:black;
+    font-size: 1em;
+    font-family: verdana;
+    font-style: normal;
+    
+}
+body{
+	border: none;
+     font-size: 100%;
+
+}
+
+
+img{
+	display: block;
+	margin: 0 auto;
+
+}
+ div{
+ 	display: block;
+ 	text-align: justify;
+ 	padding: 10px 0;
+ 	margin: auto;
+ 	
+}
+h1{
+	background-color: white;
+	color: black;
+	text-align: center;
+
+    
+}
+h2{
+	text-align: center;
+	color: black;
+	
+}
+h3{
+ font-size: 150%;
+}
+
+.box{
+	background-color: white;
+	
+}
+
+*{
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box; 
+}
